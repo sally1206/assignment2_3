@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A3F88AE2191489900ED27CA /* SF-Pro-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3A3F88AD2191489900ED27CA /* SF-Pro-Display-Bold.otf */; };
+		3A3F88B021916AA200ED27CA /* SF-Pro-Display-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3A3F88AF21916AA100ED27CA /* SF-Pro-Display-Medium.otf */; };
 		3ADE9B8E21903CD200499582 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ADE9B8D21903CD200499582 /* AppDelegate.swift */; };
 		3ADE9B9021903CD200499582 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ADE9B8F21903CD200499582 /* ViewController.swift */; };
 		3ADE9B9321903CD200499582 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ADE9B9121903CD200499582 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A3F88AD2191489900ED27CA /* SF-Pro-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Bold.otf"; sourceTree = "<group>"; };
+		3A3F88AF21916AA100ED27CA /* SF-Pro-Display-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Medium.otf"; sourceTree = "<group>"; };
 		3ADE9B8A21903CD200499582 /* test2_14.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test2_14.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3ADE9B8D21903CD200499582 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3ADE9B8F21903CD200499582 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -39,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				3ADE9B8C21903CD200499582 /* test2_14 */,
+				3A3F88AF21916AA100ED27CA /* SF-Pro-Display-Medium.otf */,
 				3ADE9B8B21903CD200499582 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,6 +65,7 @@
 				3ADE9B9421903CD700499582 /* Assets.xcassets */,
 				3ADE9B9621903CD700499582 /* LaunchScreen.storyboard */,
 				3ADE9B9921903CD700499582 /* Info.plist */,
+				3A3F88AD2191489900ED27CA /* SF-Pro-Display-Bold.otf */,
 			);
 			path = test2_14;
 			sourceTree = "<group>";
@@ -124,7 +130,9 @@
 			files = (
 				3ADE9B9821903CD700499582 /* LaunchScreen.storyboard in Resources */,
 				3ADE9B9521903CD700499582 /* Assets.xcassets in Resources */,
+				3A3F88AE2191489900ED27CA /* SF-Pro-Display-Bold.otf in Resources */,
 				3ADE9B9321903CD200499582 /* Main.storyboard in Resources */,
+				3A3F88B021916AA200ED27CA /* SF-Pro-Display-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
